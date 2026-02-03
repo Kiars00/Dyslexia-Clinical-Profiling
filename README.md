@@ -97,7 +97,7 @@ The analysis reveals that dyslexia is not a uniform slowing factor but a **stabi
 
 ### 4. Group-Level Analysis: Normative vs. Clinical Comparison
 ![Group Comparison Boxplot](output/plots/IES_Profilazione_Clinica_Final.png)
-*This boxplot illustrates the distribution of the integration cost (Delta Log-IES) across the two groups. While the normative sample shows a concentrated and predictable response, the clinical group (Dyslexia) exhibits significantly higher variance and a higher mean cost. The Welch T-test results ($p < .05$) statistically validate that the stereotypical conflict acts as an objective cognitive barrier for dyslexic readers.*
+*This boxplot compares the **Integration Cost** ($$Delta\ Log\text{-}IES$$) between the Normative Sample and the Clinical Group. By employing the **Inverse Efficiency Score (IES)**, the analysis integrates reaction times and accuracy into a single metric, subsequently log-transformed to stabilize variance. The plot clearly demonstrates the increased cognitive effort and significantly higher dispersion ($$p < .05$$) required by dyslexic readers to resolve the stereotypical conflict compared to neurotypical controls.*
 
 ---
 
