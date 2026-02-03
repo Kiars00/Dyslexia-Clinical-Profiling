@@ -83,17 +83,21 @@ The analysis reveals that dyslexia is not a uniform slowing factor but a **stabi
 
 ## Visual Evidence (`/plots`)
 
-### 1. Individual Interaction Slope
+### 1. Group Heterogeneity (F-Test)
+![F-test Varianza](output/plots/F_test_varianza_completo.png)
+*Statistical proof of the study's premise: the clinical group shows a significantly higher dispersion compared to the normative sample ($p < .001$), justifying the need for single-case profiling.*
+
+### 2. Individual Interaction Slope
 ![Interaction Plot](output/plots/Interazione_cond_DG.png)
 *This chart highlights the "high effort" profiles: note how some slopes explode during the conflict condition, signaling the sudden sequestration of executive resources.*
 
-### 2. 2D Phenotypic Map (Z-Score vs. Δ Errors)
+### 3. 2D Phenotypic Map (Z-Score vs. Δ Errors)
 ![Phenotypic Map](output/plots/Mappa_Fenotipica_Clinica.png)
 *The final synthesis: mapping participants into different "danger zones," from the green area (Resilience) to the red quadrants (Systemic Collapse and Resource Saturation).*
 
-### 3. Group Heterogeneity (F-Test)
-![F-test Varianza](output/plots/F_test_varianza_completo.png)
-*Statistical proof of the study's premise: the clinical group shows a significantly higher dispersion compared to the normative sample ($p < .001$), justifying the need for single-case profiling.*
+### 4. Group-Level Analysis: Normative vs. Clinical Comparison
+![Group Comparison Boxplot](output/plots/IES_Profilazione_Clinica_Final.png)
+*This boxplot illustrates the distribution of the integration cost (Delta Log-IES) across the two groups. While the normative sample shows a concentrated and predictable response, the clinical group (Dyslexia) exhibits significantly higher variance and a higher mean cost. The Welch T-test results ($p < .05$) statistically validate that the stereotypical conflict acts as an objective cognitive barrier for dyslexic readers.*
 
 ---
 
