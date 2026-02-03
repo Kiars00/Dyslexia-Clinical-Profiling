@@ -92,7 +92,7 @@ The analysis reveals that dyslexia is not a uniform slowing factor but a **stabi
 *The final synthesis: mapping participants into different "danger zones," from the green area (Resilience) to the red quadrants (Systemic Collapse and Resource Saturation).*
 
 ### 3. Group Heterogeneity (F-Test)
-![F-test Varianza](plots/F_test_varianza_completo.png)
+![F-test Varianza](output/plots/F_test_varianza_completo.png)
 *Statistical proof of the study's premise: the clinical group shows a significantly higher dispersion compared to the normative sample ($p < .001$), justifying the need for single-case profiling.*
 
 ---
