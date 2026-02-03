@@ -84,11 +84,11 @@ The analysis reveals that dyslexia is not a uniform slowing factor but a **stabi
 ## Visual Evidence (`/plots`)
 
 ### 1. Individual Interaction Slope
-![Interaction Plot](plots/Interazione_cond_DG.png)
+![Interaction Plot](output/plots/Interazione_cond_DG.png)
 *This chart highlights the "high effort" profiles: note how some slopes explode during the conflict condition, signaling the sudden sequestration of executive resources.*
 
 ### 2. 2D Phenotypic Map (Z-Score vs. Δ Errors)
-![Phenotypic Map](plots/Mappa_Fenotipica_Clinica.png)
+![Phenotypic Map](output/plots/Mappa_Fenotipica_Clinica.png)
 *The final synthesis: mapping participants into different "danger zones," from the green area (Resilience) to the red quadrants (Systemic Collapse and Resource Saturation).*
 
 ### 3. Group Heterogeneity (F-Test)
